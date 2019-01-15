@@ -9,5 +9,5 @@ Aprendendo a lidar com testes em projetos por meio da metodologia "Red Green Fac
 ## Pré-requisitos
 Qualquer navegador na versão mais atual
 
-## Pré-requisitos
+## Autor
 * **Danilo Marra Rabelo** - *Projeto em desenvolvimento* - [danilomarra.com.br](http://danilomarra.com.br/)
